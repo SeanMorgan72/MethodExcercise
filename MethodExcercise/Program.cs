@@ -52,7 +52,14 @@ namespace MethodExcercise
 
         public static int Subtract(int x, int y)
         {
-            return x - y;
+            if (x > y)
+            {
+                return x - y;
+            }
+            else
+            {
+                return y - x;
+            }
         }
 
         public static int Multiply(int x, int y)
@@ -62,12 +69,26 @@ namespace MethodExcercise
 
         public static int Divide(int x , int y)
         {
-            return x / y;
+            if(x > y)
+            {
+                return x / y;
+            }
+            else
+            {
+                return y / x;
+            }
         }
 
         public static int Modulus(int x, int y)
         {
-            return x % y;
+            if(x > y)
+            {
+                return x % y;
+            }
+            else
+            {
+                return y % x;
+            }
         }
     }
 }
