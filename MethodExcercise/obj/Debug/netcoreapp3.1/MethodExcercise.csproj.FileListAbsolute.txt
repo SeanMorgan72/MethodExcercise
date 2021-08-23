@@ -1,0 +1,13 @@
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/bin/Debug/netcoreapp3.1/MethodExcercise.deps.json
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/bin/Debug/netcoreapp3.1/MethodExcercise.runtimeconfig.json
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/bin/Debug/netcoreapp3.1/MethodExcercise.runtimeconfig.dev.json
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/bin/Debug/netcoreapp3.1/MethodExcercise.dll
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/bin/Debug/netcoreapp3.1/MethodExcercise.pdb
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.AssemblyInfo.cs
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.dll
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.pdb
+/Users/seanmorgan/repos/MethodExcercise/MethodExcercise/obj/Debug/netcoreapp3.1/MethodExcercise.genruntimeconfig.cache
